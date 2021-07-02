@@ -1,6 +1,6 @@
 '''
-PyPower Projects
-Detect Gender and Age using Artificial Intelligence
+
+Detect Gender and Age
 
 '''
 
